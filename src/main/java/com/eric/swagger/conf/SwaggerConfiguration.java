@@ -35,10 +35,10 @@ public class SwaggerConfiguration {
     
         private ApiInfo buildApiInf(){
             return new ApiInfoBuilder()
-                        .title("title")
-                        .description("description")
+                        .title("swagger ui")
+                        .description("测试demo")
                         .termsOfServiceUrl("termsOfServiceUrl")
-                        .contact(new Contact("diaoxingguo", "http://blog.csdn.net/u014231523", "diaoxingguo@163.com"))
+                        .contact(new Contact("eric-gao", "http://39.107.137.53:9393", "ericgaowork@163.com"))
                         .build();
     
     
