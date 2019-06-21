@@ -1,0 +1,4 @@
+server:
+  port: 9393
+  servlet:
+    context-path: /Swagger-ui
